@@ -1,0 +1,5 @@
+# Front-end (installed by Streamlit Community Cloud)
+streamlit>=1.40
+biopython>=1.84
+pandas>=2.0
+requests>=2.31
